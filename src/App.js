@@ -104,7 +104,7 @@ function Loader() {
 }
 
 function Header({ showForm, setShowForm }) {
-  const appTitle = 'BlogHub';
+  const appTitle = 'FactsHub';
 
   return (
     <header className='header'>
